@@ -10,4 +10,5 @@ Este aplicativo foi feito com as aulas da semana Next Level Week, organizada pel
 
 - Flutter
 - FireBase
+- MLKIT
 - MVC
